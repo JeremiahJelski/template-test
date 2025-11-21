@@ -1,1 +1,1 @@
-This is a template for future test projects
+Making page with infinity scroller feature.
